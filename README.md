@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-### I’m Hítalo Rodrigues😊
+# I’m Hítalo Rodrigues😊
 
 ## Software Developer
 
